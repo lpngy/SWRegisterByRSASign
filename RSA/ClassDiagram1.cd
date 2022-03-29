@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RSA.BinarySerialize&lt;T&gt;">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAACBAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BinarySerialize.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RSA.RSACryption" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gEAAACAAIAAAAEAAACAQAAAAAAGIAAACAAAAAAAAAEA=</HashCode>
+      <FileName>RSACryption.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RSA.RSAProcessor" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gEAAACAAAAAAAEAAACAQAAAEAAGIAAAKAQAAAAAAAEA=</HashCode>
+      <FileName>RSAProcessor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
